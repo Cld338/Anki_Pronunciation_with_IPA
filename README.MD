@@ -1,6 +1,6 @@
 # Anki Pronunciation with IPA
 
-Anki Pronunciation with IPA는 Anki에서 노트를 추가하거나 편집할 때 자동으로 IPA 발음 기호를 추가하는 애드온입니다. "Front" 필드에 입력된 텍스트를 발음 기호로 변환하여 "Pronunciation" 필드에 저장합니다. 이 애드온은 새 노트와 기존 노트 모두에 대해 작동합니다.
+Anki Pronunciation with IPA는 Anki에서 노트를 추가하거나 편집할 때 자동으로 IPA 발음 기호를 추가하는 애드온입니다. "Front" 필드에 입력된 텍스트를 발음 기호로 변환하여 "Pronunciation" 필드에 저장합니다. 기존 노트와 새 노트 모두 호환됩니다.
 
 ## 주요 기능
 
